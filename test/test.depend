@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527785255 source:e:\workspaces\cpp\stl\test\main.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+

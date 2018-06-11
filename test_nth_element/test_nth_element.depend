@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1527927167 source:e:\workspaces\cpp\stl\test_nth_element\nth_element.cpp
+	<iostream>
+	<vector>
+	"my_algo.h"
+
+1527924836 e:\workspaces\cpp\stl\test_nth_element\my_algo.h
+	<algorithm>
+	<iterator>
+	<vector>
+	"my_iterator.h"
+
+1527923228 e:\workspaces\cpp\stl\test_nth_element\my_iterator.h
+

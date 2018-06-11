@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527774995 source:e:\workspaces\cpp\stl\test_rotate\test_rotate.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sgi_stl" />
+		<Option pch_mode="2" />
+		<Option compiler="cygwin" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sgi_stl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="E:/workspaces/cpp/STL/sgi_stl/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sgi_stl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../sgi-stl" />
+			<Add directory="../../sgi-stl/std" />
+		</Compiler>
+		<Unit filename="../../sgi-stl/JJHOU.TXT" />
+		<Unit filename="../../sgi-stl/PlotFile.h" />
+		<Unit filename="../../sgi-stl/SFile.h" />
+		<Unit filename="../../sgi-stl/algo.h" />
+		<Unit filename="../../sgi-stl/algobase.h" />
+		<Unit filename="../../sgi-stl/algorithm" />
+		<Unit filename="../../sgi-stl/alloc.h" />
+		<Unit filename="../../sgi-stl/builtinbuf.h" />
+		<Unit filename="../../sgi-stl/bvector.h" />
+		<Unit filename="../../sgi-stl/cassert" />
+		<Unit filename="../../sgi-stl/cctype" />
+		<Unit filename="../../sgi-stl/cerrno" />
+		<Unit filename="../../sgi-stl/cfloat" />
+		<Unit filename="../../sgi-stl/ciso646" />
+		<Unit filename="../../sgi-stl/climits" />
+		<Unit filename="../../sgi-stl/clocale" />
+		<Unit filename="../../sgi-stl/cmath" />
+		<Unit filename="../../sgi-stl/complex" />
+		<Unit filename="../../sgi-stl/complex.h" />
+		<Unit filename="../../sgi-stl/csetjmp" />
+		<Unit filename="../../sgi-stl/csignal" />
+		<Unit filename="../../sgi-stl/cstdarg" />
+		<Unit filename="../../sgi-stl/cstddef" />
+		<Unit filename="../../sgi-stl/cstdio" />
+		<Unit filename="../../sgi-stl/cstdlib" />
+		<Unit filename="../../sgi-stl/cstring" />
+		<Unit filename="../../sgi-stl/ctime" />
+		<Unit filename="../../sgi-stl/cwchar" />
+		<Unit filename="../../sgi-stl/cwctype" />
+		<Unit filename="../../sgi-stl/defalloc.h" />
+		<Unit filename="../../sgi-stl/deque" />
+		<Unit filename="../../sgi-stl/deque.h" />
+		<Unit filename="../../sgi-stl/editbuf.h" />
+		<Unit filename="../../sgi-stl/floatio.h" />
+		<Unit filename="../../sgi-stl/fstream" />
+		<Unit filename="../../sgi-stl/fstream.h" />
+		<Unit filename="../../sgi-stl/function.h" />
+		<Unit filename="../../sgi-stl/functional" />
+		<Unit filename="../../sgi-stl/hash_map" />
+		<Unit filename="../../sgi-stl/hash_map.h" />
+		<Unit filename="../../sgi-stl/hash_set" />
+		<Unit filename="../../sgi-stl/hash_set.h" />
+		<Unit filename="../../sgi-stl/hashtable.h" />
+		<Unit filename="../../sgi-stl/heap.h" />
+		<Unit filename="../../sgi-stl/indstream.h" />
+		<Unit filename="../../sgi-stl/iolibio.h" />
+		<Unit filename="../../sgi-stl/iomanip" />
+		<Unit filename="../../sgi-stl/iomanip.h" />
+		<Unit filename="../../sgi-stl/iosfwd" />
+		<Unit filename="../../sgi-stl/iostdio.h" />
+		<Unit filename="../../sgi-stl/iostream" />
+		<Unit filename="../../sgi-stl/iostream.h" />
+		<Unit filename="../../sgi-stl/iostreamP.h" />
+		<Unit filename="../../sgi-stl/istream.h" />
+		<Unit filename="../../sgi-stl/iterator" />
+		<Unit filename="../../sgi-stl/iterator.h" />
+		<Unit filename="../../sgi-stl/libio.h" />
+		<Unit filename="../../sgi-stl/libioP.h" />
+		<Unit filename="../../sgi-stl/list" />
+		<Unit filename="../../sgi-stl/list.h" />
+		<Unit filename="../../sgi-stl/map" />
+		<Unit filename="../../sgi-stl/map.h" />
+		<Unit filename="../../sgi-stl/memory" />
+		<Unit filename="../../sgi-stl/multimap.h" />
+		<Unit filename="../../sgi-stl/multiset.h" />
+		<Unit filename="../../sgi-stl/numeric" />
+		<Unit filename="../../sgi-stl/ostream.h" />
+		<Unit filename="../../sgi-stl/pair.h" />
+		<Unit filename="../../sgi-stl/parsestream.h" />
+		<Unit filename="../../sgi-stl/pfstream.h" />
+		<Unit filename="../../sgi-stl/procbuf.h" />
+		<Unit filename="../../sgi-stl/pthread_alloc" />
+		<Unit filename="../../sgi-stl/pthread_alloc.h" />
+		<Unit filename="../../sgi-stl/queue" />
+		<Unit filename="../../sgi-stl/rope" />
+		<Unit filename="../../sgi-stl/rope.h" />
+		<Unit filename="../../sgi-stl/ropeimpl.h" />
+		<Unit filename="../../sgi-stl/set" />
+		<Unit filename="../../sgi-stl/set.h" />
+		<Unit filename="../../sgi-stl/slist" />
+		<Unit filename="../../sgi-stl/slist.h" />
+		<Unit filename="../../sgi-stl/stack" />
+		<Unit filename="../../sgi-stl/stack.h" />
+		<Unit filename="../../sgi-stl/std/bastring.cc" />
+		<Unit filename="../../sgi-stl/std/bastring.h" />
+		<Unit filename="../../sgi-stl/std/complext.cc" />
+		<Unit filename="../../sgi-stl/std/complext.h" />
+		<Unit filename="../../sgi-stl/std/dcomplex.h" />
+		<Unit filename="../../sgi-stl/std/fcomplex.h" />
+		<Unit filename="../../sgi-stl/std/ldcomplex.h" />
+		<Unit filename="../../sgi-stl/std/straits.h" />
+		<Unit filename="../../sgi-stl/stdexcept" />
+		<Unit filename="../../sgi-stl/stdiostream.h" />
+		<Unit filename="../../sgi-stl/stl.h" />
+		<Unit filename="../../sgi-stl/stl_algo.h" />
+		<Unit filename="../../sgi-stl/stl_algobase.h" />
+		<Unit filename="../../sgi-stl/stl_alloc.h" />
+		<Unit filename="../../sgi-stl/stl_bvector.h" />
+		<Unit filename="../../sgi-stl/stl_config.h" />
+		<Unit filename="../../sgi-stl/stl_construct.h" />
+		<Unit filename="../../sgi-stl/stl_deque.h" />
+		<Unit filename="../../sgi-stl/stl_function.h" />
+		<Unit filename="../../sgi-stl/stl_hash_fun.h" />
+		<Unit filename="../../sgi-stl/stl_hash_map.h" />
+		<Unit filename="../../sgi-stl/stl_hash_set.h" />
+		<Unit filename="../../sgi-stl/stl_hashtable.h" />
+		<Unit filename="../../sgi-stl/stl_heap.h" />
+		<Unit filename="../../sgi-stl/stl_iterator.h" />
+		<Unit filename="../../sgi-stl/stl_list.h" />
+		<Unit filename="../../sgi-stl/stl_map.h" />
+		<Unit filename="../../sgi-stl/stl_multimap.h" />
+		<Unit filename="../../sgi-stl/stl_multiset.h" />
+		<Unit filename="../../sgi-stl/stl_numeric.h" />
+		<Unit filename="../../sgi-stl/stl_pair.h" />
+		<Unit filename="../../sgi-stl/stl_queue.h" />
+		<Unit filename="../../sgi-stl/stl_raw_storage_iter.h" />
+		<Unit filename="../../sgi-stl/stl_relops.h" />
+		<Unit filename="../../sgi-stl/stl_rope.h" />
+		<Unit filename="../../sgi-stl/stl_set.h" />
+		<Unit filename="../../sgi-stl/stl_slist.h" />
+		<Unit filename="../../sgi-stl/stl_stack.h" />
+		<Unit filename="../../sgi-stl/stl_tempbuf.h" />
+		<Unit filename="../../sgi-stl/stl_tree.h" />
+		<Unit filename="../../sgi-stl/stl_uninitialized.h" />
+		<Unit filename="../../sgi-stl/stl_vector.h" />
+		<Unit filename="../../sgi-stl/stream.h" />
+		<Unit filename="../../sgi-stl/streambuf.h" />
+		<Unit filename="../../sgi-stl/strfile.h" />
+		<Unit filename="../../sgi-stl/string" />
+		<Unit filename="../../sgi-stl/strstream" />
+		<Unit filename="../../sgi-stl/strstream.h" />
+		<Unit filename="../../sgi-stl/tempbuf.h" />
+		<Unit filename="../../sgi-stl/tree.h" />
+		<Unit filename="../../sgi-stl/type_traits.h" />
+		<Unit filename="../../sgi-stl/utility" />
+		<Unit filename="../../sgi-stl/vector" />
+		<Unit filename="../../sgi-stl/vector.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

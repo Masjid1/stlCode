@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528271116 source:e:\workspaces\cpp\stl\8functional-adapter\8functional-adapter.cpp
+	<algorithm>
+	<functional>
+	<vector>
+	<iostream>
+	<iterator>
+
